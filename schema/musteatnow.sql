@@ -256,7 +256,7 @@ create index idx_stock_out
 on musteatnow.stock_out (stock_id asc, stockout_dt desc)
 ;
 
-# once we are done with row level updates, we'll restore safe_updates to ON.
+-- once we are done with row level updates, we'll restore safe_updates to ON.
 SET SQL_SAFE_UPDATES = 1;
 
 
@@ -467,7 +467,7 @@ create index idx_stock_tag
 on musteatnow.stock_tag (food_id asc, food_tag asc)
 ;
 
-# Generate logical views
+-- Generate logical views
 drop view if exists musteatnow.vw_current_stock;
 create view musteatnow.vw_current_stock as
 with stock_out as
@@ -616,7 +616,7 @@ group by
 select * from food_concat
 ;
 
-# stock expiry forecast table
+-- stock expiry forecast table
 drop view if exists musteatnow.vw_what_will_runout;
 create view musteatnow.vw_what_will_runout as
 with stock_out as
@@ -713,7 +713,6 @@ t3 as
     ,max(stock_consumption_days) over(partition by userid, food_id) as food_id_consumption_days
     
 from t1 as t
-
 ),
 
 t4 as
@@ -767,4 +766,4 @@ from t5
 select * from t6
 ;
 
-# End of MySQL db setup.
+-- End of MySQL db setup.
