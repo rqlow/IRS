@@ -80,8 +80,6 @@ values
 ,(1, 22, 'busan apple', 1)
 ,(1, 40, 'golden phoenix thai mix grain', 1)
 ,(1, 47, 'pork loin', 1)
-
---
 ,(1, 3, 'plain yogurt', 2)
 ,(1, 2, 'Walls ice cream', 2)
 ,(1, 8, 'scs butter', 1)
