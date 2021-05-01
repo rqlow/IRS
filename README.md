@@ -15,7 +15,7 @@ The project has implemented a smart OCR system which takes in receipt image inpu
 # Section 3: Credits / Project Contribution
 |Official Full Name|Student ID| Work Items| Email | 
 |--|--|--|--|
-|Goh Kum Whye Leslie |  A0229982M | Server and Database Architecture; Web Application Interface; Python to Web Integration; Database and KB Integration; Keyword Corpus Updating; Rule-based Recommendation System; User Guide; Installation Guide; Report  | E0687390@u.nus.edu |
+|Goh Kum Whye Leslie |  A0229982M | Server and Database Architecture; Web Application Interface (design and development); Python Web Integration; Database and KB Integration; Keyword Corpus Updating; Rule-based Recommendation System; User Guide; Installation Guide; Report  | E0687390@u.nus.edu |
 |Lim Jingcheng, Konchok| A0229969A | | E0687377@u.nus.edu |
 |Low Ruo Qi | A0229977E| Smart OCR System (design and development); Business use case video demo; Report | E0687385@u.nus.edu |
 |Low Yim Tong | A0229983L |  | E0687391@u.nus.edu |
