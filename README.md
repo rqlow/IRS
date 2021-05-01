@@ -1,7 +1,7 @@
 # Section 1: Project Title
 **MustEatNow - Smart Management of Household Perishables Inventory**
 
-insert webpage image
+![](misc/app_homepage.jpg)
 
 
 # Section 2: Executive Summary / Abstract
