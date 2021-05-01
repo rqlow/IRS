@@ -1,0 +1,177 @@
+body {
+	font-family: 'Muli', sans-serif;
+	padding-top: 120px;
+}
+
+header {}
+
+.home nav {
+	background-color: white;
+	transition: background-color 100ms linear;
+}
+
+nav,
+.navbar {
+	background-color: #fff;
+	box-shadow: 0px 1px 15px #111;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 12pt;
+	color: #111;
+	padding: 5px 15px;
+}
+
+.navbar .nav-item .nav-link:hover {
+	color: #000;
+}
+
+.navbar .nav-item a:hover {
+	color: #111;
+	background-color: #fff;
+	transition: background-color 200ms linear;
+}
+
+.navbar-brand img {
+	height: 100px;
+	padding: 0px;
+}
+
+.navbar-toggler-icon {
+	color: #333;
+}
+
+.navbar.scrolled {
+	background-color: rgba(0, 0, 0, 0.8);
+	transition: background-color 100ms linear;
+}
+
+.navbar.scrolled .nav-link {
+	color: #fff;
+}
+
+.jumbotron {
+	background-color: #4b6d03;
+}
+.jumbotron1 {
+	background-color: #4b6d03;
+	padding:20px;
+	margin:0;
+	font-size: 16pt;
+	color: white;
+	font-weight: bold;
+}
+
+.heading1 {
+	font-size: 36pt;
+	color: #fff
+}
+
+.heading3 {
+	font-size: 20pt;
+	color: #dbe681;
+}
+
+
+
+
+
+.social {
+	display: inline-block
+}
+
+.calltoaction {
+	display: inline-block;
+	text-align: right;
+}
+
+.modal .modal-header {
+	background-color: #4b6d03;
+	color: white;
+}
+
+footer {
+	background-color: #c07900;
+	padding: 40px;
+}
+
+footer .social {
+	padding: 10px;
+	margin-bottom: 10px;
+	font-size: 15pt;
+}
+
+footer .social a,
+footer .social a:hover {
+	color: #fff;
+	padding: 10px 7px;
+	margin: 0px 3px;
+}
+
+footer p {
+	font-size: 10pt;
+}
+
+footer h6 {
+	color: #555;
+	margin: 0px 0px 3px;
+}
+
+footer h6 a,
+footer h6 a:hover {
+	color: #aaa;
+	font-size: 9pt;
+	margin: 0px 3px;
+	text-decoration: none;
+}
+
+section {
+	padding: 50px 0;
+}
+
+.section-light {
+	background-color: #eee;
+}
+
+.section-dark {
+	background-color: #656b75;
+}
+
+.section-topbar {
+	background-color: #656b75;
+	height: 76px;
+}
+
+section h3 {
+	font-weight: normal;
+	font-size: 18pt;
+}
+
+section h3 small {
+	display: block;
+	font-size: 11pt;
+	color: #888;
+	margin-top: 5px;
+	font-style: italic;
+}
+
+section .lead {
+	color: #555;
+}
+
+@media (max-width: 575.98px) {
+
+	body {
+		padding-top: 90px;
+	}
+
+	.navbar-brand img {
+		height: 70px;
+	}
+}
+
+/* custom styles */
+.resume_icon {
+	color: #aaa;
+	margin-bottom: 20px;
+}
