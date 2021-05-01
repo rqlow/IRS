@@ -28,7 +28,7 @@ include_once("common/start.php");
     <h3 class="heading3">And you did not even know it was there?</h3>
     <p class="text-white py-4">Let's face it. This scenario has happened to all of us before. We buy groceries, we keep them in the refrigerator, and we forget all about them. Until one day we find them lurking in some deep forgotten corner of the fridge. By then, the dreaded expiry date is long past and the food is only good to be thrown out.
     </p>
-    <p><a class="btn btn-warning btn-lg" href="#" role="button">Manage Your Food the Smart Way</a></p>    
+    <p><a class="btn btn-warning btn-lg" href="features.php" role="button">Manage Your Food the Smart Way</a></p>    
     </div>
 </div>
 </div>
