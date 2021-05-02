@@ -32,7 +32,14 @@ The project has implemented a smart OCR system which takes in receipt image inpu
 
 # Section 5: User Guide
 
-
+Refer to [Appendix C](ProjectDocuments/IRS-PM-2021-01-16-IS03PT-GRP-L4-MustEatNow-Appendix.pdf) under ProjectDocuments Appendix for user guide
+| Appendix  | Title  |
+|---|---|
+| Appendix A| Project Proposal|
+| Appendix B | Mapped System Functionality |
+|Appendix C| Installation and User Guide |
+|Appendix D| Individual Project Reports |
+|Appendix E| References |
 
 # Section 6: Project Report
 
