@@ -26,7 +26,7 @@ The project has implemented a smart OCR system which takes in receipt image inpu
 
 1. Business use case [video demo](https://drive.google.com/file/d/11OUKy4VsHveBVHvrW1DFtgHf6BdKZvkY/view?usp=sharing)
 
-2. System Modelling video link TBA
+2. System Modelling [video here](https://drive.google.com/file/d/1cXMc18IbFAyyvERMf6HEe7cy1haizo3z/view?usp=sharing)
 
 
 
@@ -35,4 +35,6 @@ The project has implemented a smart OCR system which takes in receipt image inpu
 
 
 # Section 6: Project Report
+
+Refer to [project report](ProjectDocuments/IRS-PM-2021-01-16-IS03PT-GRP-L4-MustEatNow-Report.pdf) in folder ProjectDocuments
 
