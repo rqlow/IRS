@@ -32,6 +32,9 @@ The project has implemented a smart OCR system which takes in receipt image inpu
 
 # Section 5: User Guide
 
+*Post-submission update:
+A docker setup method is additionally provided as an option for containerised local environment setup. The zip file for docker setup can be separately downloaded* [here](https://drive.google.com/file/d/1C9QJqLgS_1el1esZOAt2nBSavN-pkqn3/view?usp=sharing)
+
 Refer to [Appendix C](ProjectDocuments/IRS-PM-2021-01-16-IS03PT-GRP-L4-MustEatNow-Appendix.pdf) under ProjectDocuments Appendix for user guide
 | Appendix  | Title  |
 |---|---|
